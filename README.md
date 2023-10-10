@@ -2,10 +2,9 @@
 
 ### Hello 👋
 
-🇨🇳 China
-🕹 Rust/Android/Python/Go/Javascript/PHP/Kotlin
-
-- 🌱 I’m currently learning rust/android/ai...
-- 💬 Ask me about gmail <kingzcheung@gmail.com>
+- 🇨🇳 China
+- 🕹 Rust/Android/Python/Go/Javascript/PHP/Kotlin
+- 🌱 I’m currently learning ai...
+- 💬 Ask me about gmail <kingzcheung#gmail.com>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)

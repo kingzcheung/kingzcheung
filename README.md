@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-🇨🇳 China・🕹 WEB Developer
+🇨🇳 China・🕹 Rust/Android/Python/Go/Javascript/PHP/Kotlin
 
 - 🌱 I’m currently learning rust/android/ai...
 - 💬 Ask me about gmail <kingzcheung@gmail.com>

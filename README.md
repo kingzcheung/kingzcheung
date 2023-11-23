@@ -3,7 +3,6 @@
 ### Hello 👋
 
 - 🇨🇳 China
-- 🕹 Rust/Android/Python/Go/Javascript/PHP/Kotlin
 - 🌱 I’m currently learning ai...
 - 💬 Ask me about gmail <kingzcheung#gmail.com>
 

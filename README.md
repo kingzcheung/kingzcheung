@@ -2,7 +2,6 @@
 
 ### Hello 👋
 
-- 🇨🇳 China
 - 🌱 I’m currently learning ai...
 - 💬 Ask me about gmail <kingzcheung#gmail.com>
 
